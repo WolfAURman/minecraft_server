@@ -21,10 +21,11 @@ apt install curl -y
 ```
 
 ```bash
-curl -O https://raw.githubusercontent.com/WolfAURman/minecraft_server/minecraft_server
+git clone https://github.com/WolfAURman/minecraft_server -b 1.19_purpurmc
 ```
 
 ```bash
+cd minecraft_server
 chmod +x install.sh
 ```
 
