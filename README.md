@@ -17,6 +17,10 @@ EssentialsX Spawn 2.19.5-dev+27-4a53cfe - https://essentialsx.net/downloads.html
 
 ## Install
 ```bash
+apt install curl
+```
+
+```bash
 curl -O https://raw.githubusercontent.com/WolfAURman/minecraft_server/minecraft_server
 ```
 
