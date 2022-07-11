@@ -1,0 +1,1 @@
+java -jar -server -Xms3584M -Xmx3584M -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -Dfile.encoding=UTF-8 purpur-1.19-1708.jar --nogui
